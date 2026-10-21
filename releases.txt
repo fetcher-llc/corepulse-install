@@ -1,0 +1,2 @@
+# CorePulse releases, newest last: version|date|channel|bundle URL|bundle SHA-256|release notes URL
+# Read by install.sh, ./corepulsectl upgrade and CorePulse's update notices. Written by the release workflow.
