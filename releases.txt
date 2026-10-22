@@ -2,3 +2,4 @@
 # Read by install.sh, ./corepulsectl upgrade and CorePulse's update notices. Written by the release workflow.
 0.9.0|2026-10-21|stable|https://github.com/fetcher-llc/corepulse-install/releases/download/v0.9.0/corepulse-0.9.0.tar.gz|4eca95d9dac84805269ad95314ff34ec05db4d6d119a7ac7d8b91eeef29036a8|https://raw.githubusercontent.com/fetcher-llc/corepulse-install/main/notes/0.9.0.md
 0.9.1|2026-10-21|stable|https://github.com/fetcher-llc/corepulse-install/releases/download/v0.9.1/corepulse-0.9.1.tar.gz|fba2d03b6e813ad3ec6f8731ace17a436f46a90508c2fb0328d4c7f3b2e0c0ce|https://raw.githubusercontent.com/fetcher-llc/corepulse-install/main/notes/0.9.1.md
+0.9.2|2026-10-22|stable|https://github.com/fetcher-llc/corepulse-install/releases/download/v0.9.2/corepulse-0.9.2.tar.gz|b4ef1d3d1c9a6cfbabfb59b23704c362fba2ceb80605a23d7199d950a8479be5|https://raw.githubusercontent.com/fetcher-llc/corepulse-install/main/notes/0.9.2.md
