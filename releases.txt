@@ -1,3 +1,4 @@
 # CorePulse releases, newest last: version|date|channel|bundle URL|bundle SHA-256|release notes URL
 # Read by install.sh, ./corepulsectl upgrade and CorePulse's update notices. Written by the release workflow.
 0.11.0|2026-10-23|stable|https://github.com/fetcher-llc/corepulse-install/releases/download/v0.11.0/corepulse-0.11.0.tar.gz|5e8bfe9d7b0d526dd8a7cc857e7725c4455f56333670637dec0276fe0269ed82|https://raw.githubusercontent.com/fetcher-llc/corepulse-install/main/notes/0.11.0.md
+0.11.1|2026-10-23|stable|https://github.com/fetcher-llc/corepulse-install/releases/download/v0.11.1/corepulse-0.11.1.tar.gz|a7c351a47faad28367263ab9e00ea4973e5d0f04b8e4f2dc8a3765b57a17f66a|https://raw.githubusercontent.com/fetcher-llc/corepulse-install/main/notes/0.11.1.md
