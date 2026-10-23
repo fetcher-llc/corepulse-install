@@ -25,7 +25,7 @@ includes the full guides (`docs/INSTALL.md`, `docs/UPGRADE.md`, `docs/SECURITY.m
 
 Each release has the bundle (`corepulse-VERSION.tar.gz`), an offline bundle with every image for servers
 without internet access (`corepulse-VERSION-offline-amd64.tar`), and a `.sha256` file for each. The images
-(`ghcr.io/fetcher-llc/corepulse`, `corepulse-radius`) are signed; `./corepulsectl` checks the signatures.
+(`ghcr.io/fetcher-llc/corepulse`, `corepulse-radius`, `corepulse-proxy`) are signed; `./corepulsectl` checks the signatures.
 
 ## Security problems
 
